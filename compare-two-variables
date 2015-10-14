@@ -1,0 +1,10 @@
+#Compare 2 variables
+
+if isinstance(varA,str) or isinstance(varB,str):
+    print("string involved") #print "string involved" if either varA or varB are strings
+elif varA > varB:
+    print("bigger")
+elif varA==varB:
+    print("equal")
+elif varA < varB:
+    print("smaller")
