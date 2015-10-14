@@ -1,3 +1,5 @@
+#prints the number of times the string 'bob' occurs in s
+
 s = raw_input('Enter a string:')
 
 loc = 0
