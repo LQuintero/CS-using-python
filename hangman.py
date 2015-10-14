@@ -4,7 +4,7 @@
 import random
 import string
 
-lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+#lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
 
 def isWordGuessed(secretWord, lettersGuessed):
     for char in secretWord:
