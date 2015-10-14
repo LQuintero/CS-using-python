@@ -1,3 +1,5 @@
+#prints the longest substring of s in which the letters occur in alphabetical order
+
 s = raw_input('Enter a string:')
 
 index = 0
